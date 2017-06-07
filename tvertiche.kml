@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tiendas Vertiche</name>
+    <description/>
+    <NetworkLink>
+      <name>Tiendas Vertiche</name>
+      <Link>
+        <href>http://www.google.com/maps/d/kml?mid=1J0rEbZ1oj7nwhm9k6M2jgigF-Qo</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
